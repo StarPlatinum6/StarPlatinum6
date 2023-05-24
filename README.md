@@ -1,8 +1,9 @@
 # Acá el banner
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=34&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=800&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=800&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!" alt="Typing SVG">
 </p>
+</br>
 
 Developer. Gamer. Music lover.
 ------------------------------
@@ -11,6 +12,7 @@ I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about 
 
 - 🌍  I'm based in Buenos Aires, Argentina
 - 🖥️  See my portfolio at [Under Construction](http://nbrusco.dev)
+    <img src="https://i.gifer.com/origin/f3/f356b77ca32430618da6a3cad157bac0_w200.gif" align="right" alt="Cozy bonfire GIF">
 - ✉️  You can contact me at [nbruscodev@proton.me](mailto:nbruscodev@proton.me)
 - 🧠  I'm learning Next.JS 13 & Three.JS.
 - 🤝  I'm open to collaborating on challenging projects.
