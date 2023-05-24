@@ -19,7 +19,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 - ✉️  You can contact me at [nbruscodev@proton.me](mailto:nbruscodev@proton.me)
 - 🧠  I'm learning Next.JS 13 & Three.JS.
 - 🤝  I'm open to collaborating on challenging projects.
-- ⚡  I've been in love with computers since I was just 2, thanks to my father. Back in the time, I used DOS and Norton Commander, playing games like Apache and Stunt. Since then, he taught me how to assemble PCs, and at the age of 8, I got my first gig! I still enjoy working on PC assembly from time to time.
+- ⚡  I've been in love with computers since I was just 2, thanks to my father. Back in the time, I used DOS and Norton Commander, playing games like Apache and Stunt. Since then, he taught me how to assemble PCs, and at the age of 8, I got my first gig! I still enjoy working on this from time to time.
 
 ## Skills
 
