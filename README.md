@@ -13,7 +13,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 ***
 
 <img src="https://i.imgur.com/a2hPocf.gif" align="right" alt="Cozy bonfire GIF"></img>
-</br>
+  
 - 🌍  I'm based in Buenos Aires, Argentina
 - 🖥️  See my portfolio at [Under Construction](http://nbrusco.dev)
 - ✉️  You can contact me at [nbruscodev@proton.me](mailto:nbruscodev@proton.me)
