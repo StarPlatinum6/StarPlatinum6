@@ -10,7 +10,6 @@ I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about 
 
 <img src="https://i.imgur.com/E47a8SN.gif" align="right" alt="Cozy bonfire GIF"></img>
 </br>
-</br>
 - 🌍  I'm based in Buenos Aires, Argentina
 - 🖥️  See my portfolio at [Under Construction](http://nbrusco.dev)
 - ✉️  You can contact me at [nbruscodev@proton.me](mailto:nbruscodev@proton.me)
