@@ -67,7 +67,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 <a href="https://www.instagram.com/nicobrusco" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://protonmail.com/" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
 
-<img src="[https://i.imgur.com/a2hPocf.gi](https://i.imgur.com/JCjMXTb.gif)f" align="right" alt="GIF"></img>
+<img src="https://i.imgur.com/JCjMXTb.gif" align="center" alt="GIF"></img>
 
 <b>My GitHub Stats</b>
 
