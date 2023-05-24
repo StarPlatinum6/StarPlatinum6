@@ -1,9 +1,9 @@
 # Acá el banner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=38&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=900&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=34&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=800&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!)](https://git.io/typing-svg)
 
-
-### Developer. Gamer. Music lover.
+Developer. Gamer. Music lover.
+------------------------------
 
 I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about understanding how computers work and exploring their infinite possibilities. I worked at 1&1 with hosting services and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do. When I began my journey in software development, I really found my passion, learning new technologies every day.
 
@@ -14,7 +14,7 @@ I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about 
 - 🤝  I'm open to collaborating on challenging projects.
 - ⚡  I've been in love with computers since I was just 2, thanks to my father. Back in the time, I used DOS and Norton Commander, playing games like Apache and Stunt. Since then, he taught me how to assemble PCs, and at the age of 8, I got my first gig! I still enjoy working on PC assembly from time to time.
 
-### Skills
+## Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@ I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Tech I use
+## Tech I use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -52,7 +52,7 @@ I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about 
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-### Socials
+## Socials
 
 <a href="https://www.linkedin.com/nicolasbrusco" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/nicobrusco" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
