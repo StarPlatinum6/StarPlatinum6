@@ -67,6 +67,8 @@ I'm Nicolas - Developer. Gamer. Music lover.
 <a href="https://www.instagram.com/nicobrusco" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://protonmail.com/" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
 
+<img src="[https://i.imgur.com/a2hPocf.gi](https://i.imgur.com/JCjMXTb.gif)f" align="right" alt="GIF"></img>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/StarPlatinum6"><img src="https://github-readme-stats.vercel.app/api?username=StarPlatinum6&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="StarPlatinum6's GitHub stats" /></a>
