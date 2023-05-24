@@ -1,6 +1,8 @@
 # Acá el banner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=34&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=800&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=34&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=800&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!" alt="Typing SVG">
+</p>
 
 Developer. Gamer. Music lover.
 ------------------------------
