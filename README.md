@@ -8,6 +8,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 --------------------------------------------
 
 I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about understanding how computers work and exploring their infinite possibilities. I worked at 1&1 with hosting services and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do. When I began my journey in software development, I really found my passion, learning new technologies every day.
+***
 
 <img src="https://i.imgur.com/a2hPocf.gif" align="right" alt="Cozy bonfire GIF"></img>
 </br>
