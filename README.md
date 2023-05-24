@@ -63,7 +63,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 
 ## Socials
 
-<a href="https://www.linkedin.com/nicolasbrusco" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/nicolasbrusco" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/nicobrusco" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://protonmail.com/" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
 
