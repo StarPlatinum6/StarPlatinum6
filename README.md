@@ -4,12 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=500&color=C586C0&center=true&vCenter=true&width=800&height=100&lines=Gather+'round%2C+fearless+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!;Behold+my+very+own+GitHub+profile.;An+epic+tale+of+code+unfolds+upon+you!" alt="Typing SVG">
 </p>
 
-## Developer. Gamer. Music lover.
+Developer. Gamer. Music lover.
+---------------------------------
 
 I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about understanding how computers work and exploring their infinite possibilities. I worked at 1&1 with hosting services and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do. When I began my journey in software development, I really found my passion, learning new technologies every day.
 
 <img src="https://i.imgur.com/a2hPocf.gif" align="right" alt="Cozy bonfire GIF"></img>
-</hr>
+</br>
 - 🌍  I'm based in Buenos Aires, Argentina
 - 🖥️  See my portfolio at [Under Construction](http://nbrusco.dev)
 - ✉️  You can contact me at [nbruscodev@proton.me](mailto:nbruscodev@proton.me)
