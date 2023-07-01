@@ -1,4 +1,4 @@
-# Honorable greetings, fearless coders! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Honorable greetings, fellow coders! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=750&color=1ec98b&center=true&vCenter=true&width=800&height=100&lines=Feel+free+to+take+a+sit+by+the+fire.;A+tale+of+code+unfolds+upon+you!" alt="Typing SVG">
