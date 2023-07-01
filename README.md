@@ -72,3 +72,4 @@ I'm Nicolas - Developer. Gamer. Music lover.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nbrusco"><img src="https://github-readme-stats.vercel.app/api?username=nbrusco&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="nbrusco's GitHub stats" /></a>
+These stats seem broken since I changed my username 🫠
