@@ -8,8 +8,9 @@ I'm Nicolas - Developer. Gamer. Music lover.
 --------------------------------------------
 
 💻 I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about how computers work and their infinite possibilities.  
-💼 I worked at 1&1 with hosting and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do.  
+🗃️ I worked at 1&1 with hosting and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do.  
 📚 When I began my journey in software development, I realized this is where I can unleash all my potential.
+💼 I'm currently working as a Full Stack developer at COTO.
 ***
 
 <img src="https://i.imgur.com/a2hPocf.gif" align="right" alt="Cozy bonfire GIF"></img>
@@ -17,9 +18,8 @@ I'm Nicolas - Developer. Gamer. Music lover.
 </br>  
 
 - 🌍  I'm based in Buenos Aires, Argentina
-- 🖥️  See my portfolio at [Under Construction](http://nbrusco.dev)
 - ✉️  You can contact me at [nbruscodev@proton.me](mailto:nbruscodev@proton.me)
-- 🧠  I'm learning Next.JS 13 & Three.JS.
+- 🧠  I'm learning Three.JS.
 - 🤝  I'm open to collaborating on challenging projects.
 - ⚡  I've been in love with computers since I was just 2, thanks to my father. Back in the time, I used DOS and Norton Commander, playing games like Apache and Stunt. Since then, he taught me how to assemble PCs, I even got my first gig when I was 8! I still enjoy working on this from time to time.
 
@@ -33,6 +33,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -44,6 +45,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-1e73be.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
