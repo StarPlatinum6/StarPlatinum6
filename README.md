@@ -9,7 +9,7 @@ I'm Nicolas - Developer. Gamer. Music lover.
 
 💻 I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about how computers work and their infinite possibilities.  
 🗃️ I worked at 1&1 with hosting and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do.  
-📚 When I began my journey in software development, I realized this is where I can unleash all my potential.
+📚 When I began my journey in software development, I realized this is where I can unleash all my potential.  
 💼 I'm currently working as a Full Stack developer at COTO.
 ***
 
